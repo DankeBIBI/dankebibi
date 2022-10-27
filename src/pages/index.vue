@@ -9,7 +9,8 @@ onMounted(() => {
 </script>
 <template>
     <div class="indexPage">
-        <div>DANKEBIBI.cc</div>
+        <div class="path">DANKEBIBI.cc</div>
+        <div class="by">Copyright© 2017-2022 by dankebibi Rights Reserved</div>
     </div>
 </template>
 <style lang="scss">
@@ -25,7 +26,12 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    div{
+    .by{
+        font-size: 1vw;
+        color: #dbdbdb;
+        margin-top: 10px;
+    }
+    .path{
         color: #3a3a3a;
         font-size: 8vw;
         position: relative;
