@@ -1,9 +1,4 @@
-### Hi there 👋
-<p>
-  <img src="https://pd-base.oss-cn-heyuan.aliyuncs.com/strap-trousers.png" width="100px" style="border-radius:50px;box-shadow:#B5B5B5 2px 2px 10px;"/>
-</p>
-</p>
-
+ </br>
  <h1 align="center" style="text-shadow:#767676 0px 2px 5px;">
     用奇怪的角度去解决问题🍼
  </h1>
