@@ -1,7 +1,7 @@
  </br>
- <h1 align="center" style="text-shadow:#767676 0px 2px 5px;">
-    用奇怪的角度去解决问题🍼
- </h1>
+ <a style="text-align:center;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=DANKEBIBI🍼 长得这么帅又不是他的错。" alt="Typing SVG" />
+ </a>
  </br>
 </p>
 
