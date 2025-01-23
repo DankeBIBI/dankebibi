@@ -1,6 +1,6 @@
  </br>
  <a style="text-align:center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e3e3e3&background=FF52BC00&width=610&lines=DANKEBIBI🍼 长得这么帅又不是他的错。" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e3e3e3&background=FF52BC00&width=610&lines=要有点梦想" alt="Typing SVG" />
  </a>
  </br>
 </p>
